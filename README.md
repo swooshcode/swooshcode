@@ -13,6 +13,7 @@
 * [Vivlio](https://shop.vivlio.com/product/9781393154716_9781393154716_10020/comfort-foods-of-today)
 
 ![This is an image of my Book Cover](https://images.app.goo.gl/vXhocq6UJYVYnZEG6)
+
 **ALL RIGHTS RESERVED**
 <!---
 swooshcode/swooshcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
