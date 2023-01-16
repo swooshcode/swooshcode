@@ -2,7 +2,7 @@
 
 * [Barnes and Noble](https://www.barnesandnoble.com/.../comfort.../1138007163)
 
-* [Scribd](https://www.scribd.com/.../Comfort-Foods-of-Today&ved...](https://www.scribd.com/book/481876586/Comfort-Foods-of-Today)
+* [Scribd, a Publishing Service](https://www.scribd.com/.../Comfort-Foods-of-Today&ved...](https://www.scribd.com/book/481876586/Comfort-Foods-of-Today)
 
 * [Booktopia is an Australian Publisher](https://www.booktopia.com.au/comfort-foods-of-today-nigel-phillips/ebook/9781393154716.html&ved=2ahUKEwimiMrfs8n8AhXK4GEKHeWJANcQFnoECAwQAQ&usg=AOvVaw2QcIDKQtN22jHdjPOVSN6h?fbclid=IwAR2fTcLZdDVrLALMwlpGxibvpN96959D_mSd6hxeYnrtf1BH87E1sG8tymw)
 
