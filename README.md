@@ -12,7 +12,7 @@
 
 * [Vivlio](https://shop.vivlio.com/product/9781393154716_9781393154716_10020/comfort-foods-of-today)
 
-*Bon Apetit :honey_pot:
+//*Bon Apetit :honey_pot:
 
 **ALL RIGHTS RESERVED**
 <!---
