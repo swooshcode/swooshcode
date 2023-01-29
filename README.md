@@ -24,7 +24,7 @@
 <a href="https://www.facebook.com/YungBachelor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="YungBachelor" height="30" width="40" /></a>
 </p>
 
-<a href="https://www.instagram.com/innitbruuv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram-alt.svg" alt="swooshcode" height="30" width="40" /></a>
+<a href="https://www.instagram.com/innitbruuv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram-alt.svg" alt="innitbruuv" height="30" width="40" /></a>
 </p>
 
 **ALL RIGHTS RESERVED**
