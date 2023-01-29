@@ -2,7 +2,7 @@
 <h1 align="left"> Founder of Frame Tech Solutions Ltd., Co. 框架技術解決方案 💻 ❤️‍🔥 </h1>
 <p>
   
-![Black Cat Typing]("https://tenor.com/embed.js")
+![Black Cat Typing](https://tenor.com/embed.js)
  
   
   <p> 🍯 Hi there, I'm Nigel Phillips and I'm a software developer with experience in C#, Java, JavaScript, HTML, CSS, SQL, Python, PHP, ASP.NET, Node.js, React, Redux, Angular, Bootstrap, MongoDB, AWS, Azure, Git, Linux, Agile, Scrum, REST API, Machine Learning, Data Structures & Algorithms, Web Services, Cloud Computing, Design Patterns, Testing & Debugging, Networking, Security, DevOps and Ruby on Rails! I'm passionate about coding and thrive on solving complex challenges. I'm excited to be part of this network and learn more! I am currently developing the back-end of an API: It's an AI model similar to GAN and Open AI Bots that use GPT-3. It is able to give reviews, fetch news clips, and solve problems in real time. The team is a small group of international Software Developers. 
