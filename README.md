@@ -1,13 +1,12 @@
 ### 
-<h1 align="left"> Founder of Frame Tech Solutions Ltd., Co. 框架技術解決方案 💻 ❤️‍🔥 </h1>
+<h1 align="left"> 黃龍 Founder of Frame Tech Solutions Ltd., Co. 框架技術解決方案 💻 ❤️‍🔥 </h1>
 <p>
   
-![Black Cat Typing](https://tenor.com/embed.js)
+![Chief](296909331_6068036139880431_2321278088848214970_n.jpg)
  
   
-  <p> 🍯 Hi there, I'm Nigel Phillips and I'm a software developer with experience in C#, Java, JavaScript, HTML, CSS, SQL, Python, PHP, ASP.NET, Node.js, React, Redux, Angular, Bootstrap, MongoDB, AWS, Azure, Git, Linux, Agile, Scrum, REST API, Machine Learning, Data Structures & Algorithms, Web Services, Cloud Computing, Design Patterns, Testing & Debugging, Networking, Security, DevOps and Ruby on Rails! I'm passionate about coding and thrive on solving complex challenges. I'm excited to be part of this network and learn more! I am currently developing the back-end of an API: It's an AI model similar to GAN and Open AI Bots that use GPT-3. It is able to give reviews, fetch news clips, and solve problems in real time. The team is a small group of international Software Developers. 
+  <p> 🍯 Hi there, I'm Nigel (黃龍) Phillips and I'm a software developer with experience in C#, Java, JavaScript, HTML, CSS, SQL, Python, PHP, ASP.NET, Node.js, React, Redux, Angular, Bootstrap, MongoDB, AWS, Azure, Git, Linux, Agile, Scrum, REST API, Machine Learning, Data Structures & Algorithms, Web Services, Cloud Computing, Design Patterns, Testing & Debugging, Networking, Security, DevOps and Ruby on Rails! I'm passionate about coding and thrive on solving complex challenges. I'm excited to be part of this network and learn more! I am currently developing the back-end of an API: It's an AI model similar to GAN and Open AI Bots that use GPT-3. It is able to give reviews, fetch news clips, and solve problems in real time. The team is a small group of international Software Developers. 
     </ul>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> </p>
