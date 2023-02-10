@@ -1,16 +1,8 @@
 ### 
 <h1 align="left"> 黃龍 Founder of Frame Tech Solutions Ltd., Co. 框架技術解決方案 💻 ❤️‍🔥 </h1>
 <p>
-  
 
-
-
-
-https://user-images.githubusercontent.com/115655242/218220559-f059bc9f-e231-44e6-8df0-56e067ef6284.mp4
-
-
-
- 
+https://user-images.githubusercontent.com/115655242/218220669-21d6a982-cfcd-4f82-9bb9-22d1d56f7dbe.mp4
   
   <p> 🍯 Hi there, I'm Nigel (黃龍) Phillips and I'm a software developer with experience in UX/UI Design, XCode, Web Development, Web Funnels, C#, Java, JavaScript, HTML, CSS, SQL, Python, PHP, ASP.NET, Node.js, React, Redux, Angular, Bootstrap, MongoDB, AWS, Azure, Git, Linux, Agile, Scrum, REST API, Machine Learning, Data Structures & Algorithms, Web Services, Cloud Computing, Design Patterns, Testing & Debugging, Networking, Security, DevOps and Ruby on Rails! I'm passionate about coding and thrive on solving complex challenges. I'm excited to be part of this network and learn more! I am currently developing the back-end of an API: It's an AI model similar to GAN and Open AI Bots that use GPT-3. It is able to give reviews, fetch news clips, and solve problems in real time. The team is a small group of international Software Developers. 
     </ul>
@@ -29,12 +21,6 @@ https://user-images.githubusercontent.com/115655242/218220559-f059bc9f-e231-44e6
 
 <a href="https://www.facebook.com/YungBachelor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="YungBachelor" height="30" width="40" /></a>
 </p>
-
-
-
-https://user-images.githubusercontent.com/115655242/218220487-074b8db9-ecd6-44d2-9c5c-9ba15b74d50b.mp4
-
-
 
 **ALL RIGHTS RESERVED**
 - As of January 12, 2023 and henceforth throughout perpetuity all intellectual properties not forked from Pursuit belong to Frame Tech Solutions Ltd., Co. 框架技術解決方案 unless stated otherwise in writing by Frame Tech Solutions Ltd., Co. 框架技術解決方案 or unless stated otherwise in the repository of the actual intillectual property. Such arbitrary information regarding the aforementioned may be in the `README.md` or `License` section of each repository.
