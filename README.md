@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/115655242/217872615-07b9d35a-01c3-4144
 
 [![Experience](https://github-readme-stats.vercel.app/api/top-langs/?username=swooshcode&layout=compact&theme=vision-friendly-dark)](https://github.com/swooshcode/github-readme-stats) 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swoshcode&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swoshcode&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
