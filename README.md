@@ -19,8 +19,6 @@ https://user-images.githubusercontent.com/115655242/217872615-07b9d35a-01c3-4144
 
 [![Experience](https://github-readme-stats.vercel.app/api/top-langs/?username=swooshcode&layout=compact&theme=vision-friendly-dark)](https://github.com/swooshcode/github-readme-stats) 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swooshcode&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nigel-phillips-coder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nigel-phillips-coder/" height="30" width="40" /></a>
