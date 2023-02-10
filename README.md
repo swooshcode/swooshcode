@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/115655242/217872615-07b9d35a-01c3-4144
 
 <!-- ![Nigel's GitHub stats](https://github-readme-stats.vercel.app/api?username=swooshcode&show_icons=true&theme=blue-green)
 
-![Nigel's GitHub stats](https://github-readme-stats.vercel.app/api?username=swooshcode&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swooshcode)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Experience](https://github-readme-stats.vercel.app/api/top-langs/?username=swooshcode&layout=compact&theme=vision-friendly-dark)](https://github.com/swooshcode/github-readme-stats) -->
 
