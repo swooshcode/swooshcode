@@ -1,6 +1,9 @@
 ### 
 <h1 align="left"> 黃龍 Founder of Frame Tech Solutions Ltd., Co. 框架技術解決方案 💻 ❤️‍🔥 </h1>
 <p>
+  
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=swooshcode&label=Profile%20views&color=0e75b6&style=flat" alt="swooshcode" /> </p>
+
 
 https://user-images.githubusercontent.com/115655242/218220669-21d6a982-cfcd-4f82-9bb9-22d1d56f7dbe.mp4
   
