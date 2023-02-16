@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/115655242/218220669-21d6a982-cfcd-4f82
 <a href="https://www.facebook.com/YungBachelor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="YungBachelor" height="30" width="40" /></a>
 </p>
 
-  <a href="https://twitter.com/SunOfDogbari"><img src="https://dougs-crossing-game.netlify.app/twitter.svg" alt="Twitter" width="25" height="25" /></a> [twitter.com/SonOfDogbari](https://twitter.com/SunOfDogbari)
+  <a href="https://twitter.com/SunOfDogbari"><img src="https://dougs-crossing-game.netlify.app/twitter.svg" alt="Twitter" width="25" height="25" /></a> [twitter.com/SunOfDogbari](https://twitter.com/SunOfDogbari)
 
 <a href="https://www.youtube.com/channel/UC6e9HvwaEPQhtdY3l6uizbg"><img src="https://dougs-crossing-game.netlify.app/youtube.svg" alt="YouTube" width="25" height="25" /></a> [youtube.com/swooshcode](https://www.youtube.com/channel/UC6e9HvwaEPQhtdY3l6uizbg)
 
