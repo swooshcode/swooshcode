@@ -4,9 +4,8 @@
   
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=swooshcode&label=Profile%20views&color=0e75b6&style=flat" alt="swooshcode" /> </p>
 
+https://user-images.githubusercontent.com/115655242/220660511-e09aaa2e-753f-47ea-b34f-6aca5ef6e977.mp4
 
-https://user-images.githubusercontent.com/115655242/218220669-21d6a982-cfcd-4f82-9bb9-22d1d56f7dbe.mp4
-  
   <p> 🍯 Hi there, I'm Nigel (黃龍) Phillips and I'm a Lead Software Developer at ChitChat, a software development company based in Massachusetts, United States. I have experience in UX/UI Design, XCode, Web Development, Web Funnels, C#, Java, JavaScript, HTML, CSS, SQL, Python, PHP, ASP.NET, Node.js, React, Redux, Angular, Bootstrap, MongoDB, AWS, Azure, Git, Linux, Agile, Scrum, REST API, Machine Learning, Data Structures & Algorithms, Web Services, Cloud Computing, Design Patterns, Testing & Debugging, Networking, Security, DevOps and Ruby on Rails! I'm passionate about coding and thrive on solving complex challenges. I'm excited to be part of this network and learn more!
     </ul>
 
