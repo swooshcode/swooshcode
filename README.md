@@ -23,6 +23,8 @@ https://user-images.githubusercontent.com/115655242/220668802-e55257cb-a45b-45e2
 
 <a href="https://www.facebook.com/YungBachelor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="YungBachelor" height="30" width="40" /></a>
 </p>
+  
+ <a href="https://www.instagram.com/swooshcode/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swooshcode" height="30" width="40" /></a>
 
   <a href="https://twitter.com/SunOfDogbari"><img src="https://dougs-crossing-game.netlify.app/twitter.svg" alt="Twitter" width="25" height="25" /></a> [twitter.com/SunOfDogbari](https://twitter.com/SunOfDogbari)
 
