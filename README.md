@@ -6,7 +6,7 @@
 
 https://user-images.githubusercontent.com/115655242/220668802-e55257cb-a45b-45e2-a734-af774f57e913.mp4
 
-  <p> 🍯 Hi there, I'm Nigel (黃龍) Phillips and I'm a Lead Software Developer at ChitChat, a software development company based in Massachusetts, United States. I have experience in UX/UI Design, XCode, Web Development, Web Funnels, C#, Java, JavaScript, HTML, CSS, SQL, Python, PHP, ASP.NET, Node.js, React, Redux, Angular, Bootstrap, MongoDB, AWS, Azure, Git, Linux, Agile, Scrum, REST API, Machine Learning, Data Structures & Algorithms, Web Services, Cloud Computing, Design Patterns, Testing & Debugging, Networking, Security, DevOps and Ruby on Rails! I'm passionate about coding and thrive on solving complex challenges. I'm excited to be part of this network and learn more!
+  <p> 🍯 Hi there, I'm Nigel (黃龍) Phillips and I'm a Lead Software Developer at ChitChat, a software development company based in Massachusetts, United States. I have experience in UX/UI Design, XCode, TESTFLIGHT, Web Development, Web Funnels, C#, Java, JavaScript, HTML, CSS, SQL, Python, PHP, ASP.NET, Node.js, React, Redux, Angular, Bootstrap, MongoDB, AWS, Azure, Git, Linux, Agile, Scrum, REST API, Machine Learning, Data Structures & Algorithms, Web Services, Cloud Computing, Design Patterns, Testing & Debugging, Networking, Security, DevOps and Ruby on Rails! I'm passionate about coding and thrive on solving complex challenges. I'm excited to be part of this network and learn more!
     </ul>
 
 <h3 align="left">Languages and Tools:</h3>
