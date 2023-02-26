@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/115655242/220668802-e55257cb-a45b-45e2
 
 ![Nigel's GitHub stats](https://github-readme-stats.vercel.app/api?username=swooshcode&show_icons=true&theme=blue-green)
 
-[![Experience](https://github-readme-stats.vercel.app/api/top-langs/?username=swooshcode&langs_count=8)](https://github.com/swooshcode/github-readme-stats)) 
+[![Experience](https://github-readme-stats.vercel.app/api/top-langs/?username=swooshcode&langs_count=15)](https://github.com/swooshcode/github-readme-stats)) 
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
