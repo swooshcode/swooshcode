@@ -37,7 +37,7 @@ Thank you for your time and consideration.
 
 ![Nigel's GitHub stats](https://github-readme-stats.vercel.app/api?username=swooshcode&show_icons=true&theme=blue-green)
 
-[![Experience](https://github-readme-stats.vercel.app/api/top-langs/?username=swooshcode&langs_count=15)](https://github.com/swooshcode/github-readme-stats)) 
+[![Experience](https://github-readme-stats.vercel.app/api/top-langs/?username=swooshcode&langs_count=15)](https://github.com/swooshcode/github-readme-stats)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,21 +45,25 @@ Thank you for your time and consideration.
 </p>
 
 <a href="https://www.facebook.com/YungBachelor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="YungBachelor" height="30" width="40" /></a>
-</p>
+
   
  <a href="https://www.instagram.com/swooshcode/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swooshcode" height="30" width="40" /></a>
 
-  <a href="https://twitter.com/SunOfDogbari"><img src="https://dougs-crossing-game.netlify.app/twitter.svg" alt="Twitter" width="25" height="25" /></a> [twitter.com/SunOfDogbari](https://twitter.com/SunOfDogbari)
+  <a href="https://twitter.com/SunOfDogbari"><img src="https://dougs-crossing-game.netlify.app/twitter.svg" alt="Twitter" width="25" height="25" /></a>
 
-<a href="https://www.youtube.com/channel/UC6e9HvwaEPQhtdY3l6uizbg"><img src="https://dougs-crossing-game.netlify.app/youtube.svg" alt="YouTube" width="25" height="25" /></a> [youtube.com/swooshcode](https://www.youtube.com/channel/UC6e9HvwaEPQhtdY3l6uizbg)
+<a href="https://www.youtube.com/channel/UC6e9HvwaEPQhtdY3l6uizbg"><img src="https://dougs-crossing-game.netlify.app/youtube.svg" alt="YouTube" width="25" height="25" /></a>
 
-<a href="mailto:jobs4me321@gmail.com?subject=[GitHub]"><img src="https://dougs-crossing-game.netlify.app/gmail.svg" alt="YouTube" width="25" height="25" /></a> [jobs4me321@gmail.com](mailto:jobs4me321@gmail.com?subject=[GitHub])
-
-Website I'm currently developing: 
+<a href="mailto:jobs4me321@gmail.com?subject=[GitHub]"><img src="https://dougs-crossing-game.netlify.app/gmail.svg" alt="YouTube" width="25" height="25" /></a>
+  
+  
+Website I'm currently developing for my family's medical practice (Jan 2023): 
 https://gpapopulationhealth.com/
 
-My first mobile app: 
+  
+My first mobile app advertisement (figma User Interface): 
 https://tinyurl.com/3b7fz9we
-
+  
 **ALL RIGHTS RESERVED**
 - As of January 12, 2023 and henceforth throughout perpetuity all intellectual properties not forked from Pursuit belong to Frame Tech Solutions Ltd., Co. 框架技術解決方案 unless stated otherwise in writing by Frame Tech Solutions Ltd., Co. 框架技術解決方案 or unless stated otherwise in the repository of the actual intillectual property. Such arbitrary information regarding the aforementioned may be in the `README.md` or `License` section of each repository.
+
+[Nigel's Revised Resume June 2023-compressed-compressed.pdf](https://github.com/swooshcode/swooshcode.github.io/files/11924639/Nigel.s.Revised.Resume.June.2023-compressed-compressed.pdf)
