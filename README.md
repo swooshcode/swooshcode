@@ -4,7 +4,7 @@
   
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=swooshcode&label=Profile%20views&color=0e75b6&style=flat" alt="swooshcode" /> </p>
 
-https://user-images.githubusercontent.com/115655242/220668802-e55257cb-a45b-45e2-a734-af774f57e913.mp4
+https://github.com/swooshcode/swooshcode/assets/115655242/8f08f0c7-4ca5-4ee6-b5c4-3ba06c254a5d
 
   <p> 🍯 I'm a Lead Software Developer with a passion for coding and solving complex challenges. I have experience in the software development industry, and I'm proficient in a wide range of technologies, including UX/UI design, XCode, TESTFLIGHT, web development, web funnels, C#, Java, JavaScript, HTML, CSS, SQL, Python, PHP, ASP.NET, Node.js, React, Redux, Angular, Bootstrap, MongoDB, AWS, Azure, Git, Linux, Agile, Scrum, REST API, Machine Learning, Data Structures & Algorithms, Web Services, Cloud Computing, Design Patterns, Testing & Debugging, Networking, Security, DevOps, and Ruby on Rails.
 At my previous role as Lead Software Developer at ChitChat, I was responsible for leading a team of developers in the development of a new software product. I was also responsible for the overall design and architecture of the product. I have a proven track record of success in delivering high-quality software products on time and within budget.
@@ -56,7 +56,7 @@ Thank you for your time and consideration.
 <a href="mailto:jobs4me321@gmail.com?subject=[GitHub]"><img src="https://dougs-crossing-game.netlify.app/gmail.svg" alt="YouTube" width="25" height="25" /></a>
   
   
-Website I'm currently developing for my family's medical practice (Jan 2023): 
+Website I'm currently developed for my family's medical practice (Jan 2023): 
 https://gpapopulationhealth.com/
 
   
