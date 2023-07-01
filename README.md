@@ -22,7 +22,7 @@ https://github.com/swooshcode/swooshcode/assets/115655242/ac497e86-74e5-4d6b-963
 
 https://github.com/swooshcode/swooshcode/assets/115655242/c72c6750-cb40-43be-8491-5c2f02eb2eea
 
-These architecture renderings are from Tritone Imagery & Animation / 增肆數位影像(@tritone_imagery_and_animation)
+These architecture renderings are from Tritone Imagery & Animation / 增肆數位影像(@tritone_imagery_and_animation on Instagram)
 
 A month ago, I reached out to Tseng Shihida, from Tritone Imagery & Animation, proposing a potentially exciting collaboration between our companies in the realm of Virtual Reality. I have been enthusiastic about the prospect of working together to revolutionize the VR gaming industry, given our successful history of delivering results plus their proven track record in virtual reality and architectural rendering.
 
