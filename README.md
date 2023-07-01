@@ -4,7 +4,7 @@
   
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=swooshcode&label=Profile%20views&color=0e75b6&style=flat" alt="swooshcode" /> </p>
 
-https://github.com/swooshcode/swooshcode/assets/115655242/8f08f0c7-4ca5-4ee6-b5c4-3ba06c254a5d
+https://github.com/swooshcode/swooshcode/assets/115655242/d60ab396-963f-419b-9028-0b549b87c925
 
   <p> 🍯 I'm a Lead Software Developer with a passion for coding and solving complex challenges. I have experience in the software development industry, and I'm proficient in a wide range of technologies, including UX/UI design, XCode, TESTFLIGHT, web development, web funnels, C#, Java, JavaScript, HTML, CSS, SQL, Python, PHP, ASP.NET, Node.js, React, Redux, Angular, Bootstrap, MongoDB, AWS, Azure, Git, Linux, Agile, Scrum, REST API, Machine Learning, Data Structures & Algorithms, Web Services, Cloud Computing, Design Patterns, Testing & Debugging, Networking, Security, DevOps, and Ruby on Rails.
 At my previous role as Lead Software Developer at ChitChat, I was responsible for leading a team of developers in the development of a new software product. I was also responsible for the overall design and architecture of the product. I have a proven track record of success in delivering high-quality software products on time and within budget.
@@ -68,6 +68,10 @@ https://tinyurl.com/3b7fz9we
 
 Here's my CV/Resume:
 [Nigel's Revised Resume June 2023-compressed-compressed.pdf](https://github.com/swooshcode/swooshcode.github.io/files/11924639/Nigel.s.Revised.Resume.June.2023-compressed-compressed.pdf)
+
+Personal Websites: https://www.tinyurl.com/nigelphillips
+
+www.tinyurl.com/teachernigel
 
 Personal Websites: https://www.tinyurl.com/nigelphillips
 
