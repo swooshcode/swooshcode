@@ -68,3 +68,7 @@ https://tinyurl.com/3b7fz9we
 
 Here's my CV/Resume:
 [Nigel's Revised Resume June 2023-compressed-compressed.pdf](https://github.com/swooshcode/swooshcode.github.io/files/11924639/Nigel.s.Revised.Resume.June.2023-compressed-compressed.pdf)
+
+Personal Websites: https://www.tinyurl.com/nigelphillips
+
+www.tinyurl.com/teachernigel
