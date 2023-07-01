@@ -56,7 +56,7 @@ Thank you for your time and consideration.
 <a href="mailto:jobs4me321@gmail.com?subject=[GitHub]"><img src="https://dougs-crossing-game.netlify.app/gmail.svg" alt="YouTube" width="25" height="25" /></a>
   
   
-Website I'm currently developed for my family's medical practice (Jan 2023): 
+Website I developed for my family's medical practice (Jan 2023): 
 https://gpapopulationhealth.com/
 
   
