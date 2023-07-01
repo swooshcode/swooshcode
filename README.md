@@ -103,7 +103,3 @@ Here's my CV/Resume:
 Personal Websites: https://www.tinyurl.com/nigelphillips
 
 www.tinyurl.com/teachernigel
-
-Personal Websites: https://www.tinyurl.com/nigelphillips
-
-www.tinyurl.com/teachernigel
