@@ -42,11 +42,11 @@ At my previous role as Lead Software Developer at ChitChat, I was responsible fo
 Here you will find direct links to my GitHub repositories and a collection of my written pieces including articles and blog posts about software development.
 At the moment, I am engrossed in a number of open-source projects, which include:
     
-1. Langchain-nla-util (In progress): This is an extensive project aiming to simplify complex natural language understanding operations. It's currently under development and you can follow its progress here: https://lnkd.in/gyd_UJTz .
+1. Zapier Langchain-nla-util (In progress): This is an extensive project aiming to simplify complex natural language understanding operations. It's currently under development and you can follow its progress here: https://lnkd.in/gyd_UJTz .
 
 2. ChitChatApp (Completed; currently developing a new version): This project resulted in an intuitive chat application that streamlines communication. We are now working on a newer version for an enhanced user experience. Find it here: https://lnkd.in/g2uFqXM7 .
 
-3. Database Management App (Completed; currently hosting on an AWS Ubuntu Server)
+3. Wellfound(formerly known as AngelList) Database Management App (Completed; currently hosting on an AWS Ubuntu Server)
 A powerful web app for managing complex databases. User-friendly interface, robust security, and responsive design. It empowers businesses, researchers, and organizations to organize and retrieve critical data. Features include:
 Forms and intuitive views
 Full security with user authentication and authorization mechanisms
