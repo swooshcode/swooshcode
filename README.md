@@ -46,9 +46,16 @@ At the moment, I am engrossed in a number of open-source projects, which include
 
 2. ChitChatApp (Completed; currently developing a new version): This project resulted in an intuitive chat application that streamlines communication. We are now working on a newer version for an enhanced user experience. Find it here: https://lnkd.in/g2uFqXM7 .
 
-3. DocuAssist (Completed): An automated document assistance tool, it aids in creating, editing, and sharing documents effectively. You can find the project here: https://lnkd.in/gMZzbqvB .
+3. Database Management App (Completed; currently hosting on an AWS Ubuntu Server)
+A powerful web app for managing complex databases. User-friendly interface, robust security, and responsive design. It empowers businesses, researchers, and organizations to organize and retrieve critical data. Features include:
+Forms and intuitive views
+Full security with user authentication and authorization mechanisms
+Efficient handling of large datasets with features like data filtering, sorting, and exporting
+Responsive design for smooth access from various devices
 
-4. Auto-GPT-Plugins (In progress): This is an effort towards creating plugins to automate a variety of tasks, enhancing productivity. This plugin I have been honored to work on will automate speech with Google's Text-To-Speech API. The closed pull request can be found here: https://lnkd.in/gpzSThzY
+4. DocuAssist (Completed): An automated document assistance tool, it aids in creating, editing, and sharing documents effectively. You can find the project here: https://lnkd.in/gMZzbqvB .
+
+5. Auto-GPT-Plugins (In progress): This is an effort towards creating plugins to automate a variety of tasks, enhancing productivity. This plugin I have been honored to work on will automate speech with Google's Text-To-Speech API. The closed pull request can be found here: https://lnkd.in/gpzSThzY
 
 It is still a work in progress and will be reopened soon to merge with this codebase: https://lnkd.in/gzQ6MnwX
 
