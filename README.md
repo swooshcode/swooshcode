@@ -5,9 +5,7 @@
 
 You're welcome to learn more about our company here: https://www.frametechtw.com
 
-
-https://github.com/swooshcode/swooshcode/assets/115655242/16167916-689f-4f5f-ba62-e4e1983e8e38
-
+https://github.com/swooshcode/swooshcode/assets/115655242/4c94881a-75a1-4664-8c98-28c78ae215a0
 
 🌟 Check out this mind-blowing CSS animation I created! 🚀✨ Immerse yourself in the Star Wars universe with a stunning 3D model of an X-Wing Fighter spaceship taking flight! The animation employs the magic of "translate3D" and "rotate" properties, effortlessly maneuvering the spaceship in the vastness of 3D space.
 This captivating animation allows you to experience the mesmerizing illusion of the X-Wing Fighter soaring through the depths of deep space. The backdrop itself emanates cosmic allure, composed of twinkling stars in perpetual motion, complementing the spaceship's interstellar journey.
