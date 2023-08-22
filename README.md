@@ -12,7 +12,7 @@ https://github.com/swooshcode/swooshcode/assets/115655242/16167916-689f-4f5f-ba6
 🌟 Check out this mind-blowing CSS animation I created! 🚀✨ Immerse yourself in the Star Wars universe with a stunning 3D model of an X-Wing Fighter spaceship taking flight! The animation employs the magic of "translate3D" and "rotate" properties, effortlessly maneuvering the spaceship in the vastness of 3D space.
 This captivating animation allows you to experience the mesmerizing illusion of the X-Wing Fighter soaring through the depths of deep space. The backdrop itself emanates cosmic allure, composed of twinkling stars in perpetual motion, complementing the spaceship's interstellar journey.
 Prepare to be blown away by the ingenuity of CSS animations and 3D modeling. It's a perfect showcase of what can be achieved with these technologies! Your eyes won't believe the cosmic wonders you're about to witness! 🌌✨🚀
-Source code: [https://codepen.io/swooshcode/pen/poqvpgy](https://tinyurl.com/rebelfighter)
+Source code: [Star Wars Rebel X-Wing Fighter](https://tinyurl.com/rebelfighter)
 
 -------
 
