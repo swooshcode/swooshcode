@@ -85,7 +85,8 @@ https://tinyurl.com/3b7fz9we
 - As of January 12, 2023 and henceforth throughout perpetuity all intellectual properties not forked from Pursuit belong to Frame Tech Solutions Ltd., Co. 框架技術解決方案 unless stated otherwise in writing by Frame Tech Solutions Ltd., Co. 框架技術解決方案 or unless stated otherwise in the repository of the actual intillectual property. Such arbitrary information regarding the aforementioned may be in the `README.md` or `License` section of each repository.
 
 Here's my CV/Resume:
-[Nigel's Revised Resume June 2023-compressed-compressed.pdf](https://github.com/swooshcode/swooshcode.github.io/files/11924639/Nigel.s.Revised.Resume.June.2023-compressed-compressed.pdf)
+
+[TechResume.pdf](https://github.com/swooshcode/swooshcode/files/12412354/TechResume.pdf)
 
 Personal Websites: https://www.tinyurl.com/nigelphillips
 
