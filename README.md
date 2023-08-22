@@ -1,36 +1,18 @@
 ### 
 <h1 align="left"> 黃龍 Nigel Phillips: Founder of Frame Tech Solutions Ltd., Co. 框架技術解決方案 💻 ❤️‍🔥 </h1>
-<p>
-  
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=swooshcode&label=Profile%20views&color=0e75b6&style=flat" alt="swooshcode" /> </p>
 
-https://github.com/swooshcode/swooshcode/assets/115655242/d60ab396-963f-419b-9028-0b549b87c925
+![365984703_7275082955842404_1054461165221958257_n](https://github.com/swooshcode/swooshcode/assets/115655242/3a0e8cc2-0ee8-43ea-9f72-3cc1ca06ab4c)
 
-💰“Tu Li City,” or “TooRich City,” is a virtual city construction project curated by 黄河山 / Huang Heshan(@toorichcity_hhs on Instagram)
-
-https://github.com/swooshcode/swooshcode/assets/115655242/303eaea3-7ac5-4422-bcbf-4c54dea1f28c
+You're welcome to learn more about our company here: https://www.frametechtw.com
 
 
-https://github.com/swooshcode/swooshcode/assets/115655242/df208d47-edde-405e-80ae-6c259ca3a416
+https://github.com/swooshcode/swooshcode/assets/115655242/16167916-689f-4f5f-ba62-e4e1983e8e38
 
 
-https://github.com/swooshcode/swooshcode/assets/115655242/9cfb8f48-7fe9-4a71-900e-651761d3da54
-
-
-https://github.com/swooshcode/swooshcode/assets/115655242/ac497e86-74e5-4d6b-963a-357b788950ef
-
-
-These architecture renderings are from Tritone Imagery & Animation / 增肆數位影像(@tritone_imagery_and_animation on Instagram)
-
-A month ago, I reached out to Tseng Shihida, from Tritone Imagery & Animation, proposing a potentially exciting collaboration between our companies in the realm of Virtual Reality. I have been enthusiastic about the prospect of working together to revolutionize the VR gaming industry, given our successful history of delivering results plus their proven track record in virtual reality and architectural rendering.
-
-To recap, our proposition is to create an immersive Formosan(Taiwanese)-flavored Virtual Reality game, an experience that simulates a dynamic, engaging and interactive environment for its users. This project aims to blend real-world business concepts with gaming mechanisms, including the idea of a virtual economy that promotes player engagement and real commerce growth within the game.
-
-I also envision a collaborative opportunity to build this project together with Huang Heshan, digital artist, and founder of plastic punk aesthetics in China. His masterpieces include “Wild Design,” “Fake IKEA,” and “Too Rich City.”
-
-At Frame Tech Solutions, we value partnerships that foster creativity, innovation, and synergy, and we see a potential partnership with Tritone Imagery & Animation and Huang Heshan as one that could redefine the VR gaming landscape.
-
-If you are reading this, or if you would like to support this project, I would be more than happy to arrange a meeting to further discuss our ideas and how we could bring this project to life. You're welcome to learn more about our company here: https://www.frametechtw.com
+🌟 Check out this mind-blowing CSS animation I created! 🚀✨ Immerse yourself in the Star Wars universe with a stunning 3D model of an X-Wing Fighter spaceship taking flight! The animation employs the magic of "translate3D" and "rotate" properties, effortlessly maneuvering the spaceship in the vastness of 3D space.
+This captivating animation allows you to experience the mesmerizing illusion of the X-Wing Fighter soaring through the depths of deep space. The backdrop itself emanates cosmic allure, composed of twinkling stars in perpetual motion, complementing the spaceship's interstellar journey.
+Prepare to be blown away by the ingenuity of CSS animations and 3D modeling. It's a perfect showcase of what can be achieved with these technologies! Your eyes won't believe the cosmic wonders you're about to witness! 🌌✨🚀
+Source code: https://codepen.io/swooshcode/pen/poqvpgy
 
 -------
 
