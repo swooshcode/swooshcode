@@ -8,7 +8,7 @@
 This captivating animation allows you to experience the mesmerizing illusion of the X-Wing Fighter soaring through the depths of deep space. The backdrop itself emanates cosmic allure, composed of twinkling stars in perpetual motion, complementing the spaceship's interstellar journey.
 Prepare to be blown away by the ingenuity of CSS animations and 3D modeling. It's a perfect showcase of what can be achieved with these technologies! Your eyes won't believe the cosmic wonders you're about to witness! 🌌✨🚀
 
-![Star Wars Rebel X-Wing Fighter](https://github.com/swooshcode/swooshcode/assets/115655242/4c94881a-75a1-4664-8c98-28c78ae215a0)
+https://github.com/swooshcode/swooshcode/assets/115655242/4c94881a-75a1-4664-8c98-28c78ae215a0
 
 Source code: [Star Wars Rebel X-Wing Fighter](https://tinyurl.com/rebelfighter)
 
@@ -17,6 +17,8 @@ Source code: [Star Wars Rebel X-Wing Fighter](https://tinyurl.com/rebelfighter)
 You're welcome to learn more about our company here: https://www.frametechtw.com
 
 --------
+<h3>Framework Technology Solutions: Your Trusted Software Development Partner
+</h3>
 
 https://github.com/swooshcode/swooshcode/assets/115655242/d8255285-cd53-49bf-bcdf-b15b9f408870
 
@@ -25,6 +27,7 @@ My first mobile app advertisement (Figma User Interface): https://tinyurl.com/3b
 -------
 <h1> Who am I? </h1>
   <p>
+<h3>Unleashing the Coding Genius: The Nigel Phillips Story</h3>
 
 https://github.com/swooshcode/swooshcode/assets/115655242/26f7e668-6914-403a-af4d-117ff0256643
 
@@ -52,6 +55,8 @@ At the moment, I am engrossed in a number of open-source projects, which include
 
 ------
 
+<h3>Exploring Different Types of As-a-Service Offerings in Cloud Computing</h3>
+
 https://github.com/swooshcode/swooshcode/assets/115655242/1fa842fd-8e0b-4b94-b042-27955df583ad
 
 ------
@@ -66,6 +71,8 @@ Responsive design for smooth access from various devices
 7. DocuAssist (Completed): An automated document assistance tool, it aids in creating, editing, and sharing documents effectively. You can find the project here: https://lnkd.in/gMZzbqvB .
 
 ------
+
+<h3>S2W x Framework Technology Solutions | 框架技術解決方案</h3>
 
 https://github.com/swooshcode/swooshcode/assets/115655242/fa9399b4-57d7-4e7c-b282-2483bd387c46
 
@@ -84,9 +91,15 @@ Thank you for taking out time to read this! Stay tuned for more updates.
 
 ------
 
+<h3>What is Structured Query Language (SQL)?
+</h3>
+
 https://github.com/swooshcode/swooshcode/assets/115655242/44e8ff94-1c61-439e-a5f4-66c81deaf6bc
 
+------
 
+<h3>Understanding APIs: What They Are and How They Work
+</h3>
 
 https://github.com/swooshcode/swooshcode/assets/115655242/0e0d1713-4a1b-47b8-92e7-7dc9b76a4a93
 
