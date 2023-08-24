@@ -1,4 +1,3 @@
-[TechResume (1).pdf](https://github.com/swooshcode/swooshcode/files/12433026/TechResume.1.pdf)### 
 <h1 align="left"> 黃龍 Nigel Phillips: Founder of Frame Tech Solutions Ltd., Co. 框架技術解決方案 💻 ❤️‍🔥 </h1>
 
 ![365984703_7275082955842404_1054461165221958257_n](https://github.com/swooshcode/swooshcode/assets/115655242/3a0e8cc2-0ee8-43ea-9f72-3cc1ca06ab4c)
@@ -16,8 +15,11 @@ Source code: [Star Wars Rebel X-Wing Fighter](https://tinyurl.com/rebelfighter)
 
 <h1> Who am I? </h1>
   <p> 🍯 I'm a Lead Software Developer with a passion for coding and solving complex challenges. I have experience in the software development industry, and I'm proficient in a wide range of technologies, including UX/UI design, XCode, TESTFLIGHT, web development, web funnels, C#, Java, JavaScript, HTML, CSS, SQL, Python, PHP, ASP.NET, Node.js, React, Redux, Angular, Bootstrap, MongoDB, AWS, Azure, Git, Linux, Agile, Scrum, REST API, Machine Learning, Data Structures & Algorithms, Web Services, Cloud Computing, Design Patterns, Testing & Debugging, Networking, Security, DevOps, and Ruby on Rails.
-At my previous role as Lead Software Developer at ChitChat, I was responsible for leading a team of developers in the development of a new software product. I was also responsible for the overall design and architecture of the product. I have a proven track record of success in delivering high-quality software products on time and within budget.
+    
+In my previous role as Lead Software Developer at ChitChat, I was responsible for leading a team of developers in the development of a new software product. I was also responsible for the overall design and architecture of the product. I have a proven track record of success in delivering high-quality software products on time and within budget.
+    
 Here you will find direct links to my GitHub repositories and a collection of my written pieces including articles and blog posts about software development.
+    
 At the moment, I am engrossed in a number of open-source projects, which include:
     
 1. Zapier Langchain-nla-util (In progress): This is an extensive project aiming to simplify complex natural language understanding operations. It's currently under development and you can follow its progress here: https://lnkd.in/gyd_UJTz .
@@ -43,7 +45,7 @@ Thank you for taking out time to read this! Stay tuned for more updates.
 
 I'm excited to network with other developers and learn more about the latest technologies. I'm also eager to take on new challenges and contribute to the development of innovative software products.
 
-If you're looking for a highly skilled and experienced software developer, I would be honored to discuss my qualifications with you further. Below are clickable links to contact me and see my publications and cv. For more information about my company, FRAME TECH SOLUTIONS LTD., CO. 框架技術解決方案, visit https://www.frametechtw.com/
+If you're looking for a highly skilled and experienced software developer, I would be honored to discuss my qualifications with you further. Below are clickable links to contact me and see my publications and CV. For more information about my company, FRAME TECH SOLUTIONS LTD., CO. 框架技術解決方案, visit https://www.frametechtw.com/
 
 Thank you for your time and consideration.
     </ul>
@@ -72,19 +74,18 @@ Thank you for your time and consideration.
 <a href="mailto:jobs4me321@gmail.com?subject=[GitHub]"><img src="https://dougs-crossing-game.netlify.app/gmail.svg" alt="YouTube" width="25" height="25" /></a>
   
   
-Website I developed for my family's medical practice (Jan 2023): 
+The website I developed for my family's medical practice (Jan 2023): 
 https://gpapopulationhealth.com/
-
   
-My first mobile app advertisement (figma User Interface): 
+My first mobile app advertisement (Figma User Interface): 
 https://tinyurl.com/3b7fz9we
   
 **ALL RIGHTS RESERVED**
-- As of January 12, 2023 and henceforth throughout perpetuity all intellectual properties not forked from Pursuit belong to Frame Tech Solutions Ltd., Co. 框架技術解決方案 unless stated otherwise in writing by Frame Tech Solutions Ltd., Co. 框架技術解決方案 or unless stated otherwise in the repository of the actual intillectual property. Such arbitrary information regarding the aforementioned may be in the `README.md` or `License` section of each repository.
+- As of January 12, 2023, and henceforth throughout perpetuity all intellectual properties not forked from Pursuit belong to Frame Tech Solutions Ltd., Co. 框架技術解決方案 unless stated otherwise in writing by Frame Tech Solutions Ltd., Co. 框架技術解決方案 or unless stated otherwise in the repository of the actual intellectual property. Such arbitrary information regarding the aforementioned may be in the `README.md` or `License` section of each repository.
 
 Here's my CV/Resume:
 
-[Tech Resume|CV](https://github.com/swooshcode/swooshcode/files/12433028/TechResume.1.pdf)
+[Nigel Phillips (3).pdf](https://github.com/swooshcode/swooshcode/files/12433684/Nigel.Phillips.3.pdf)
 
 
 Personal Websites: https://www.tinyurl.com/nigelphillips
