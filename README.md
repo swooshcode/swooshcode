@@ -90,7 +90,7 @@ Thank you for your time and consideration.
 
 📚 "Strategies of Financial Victory: The Art of Power in Accounting" 📚
 
-Are you searching for a book that combines the timeless wisdom of 'The Art of War' and 'The 48 Laws of Power' but applied to the world of finance? Look no further!
+Are you searching for a book that combines the timeless wisdom of 'The Art of War' and 'The 48 Laws of Power' but applies to the world of finance? Look no further!
 
 ✨ Empower yourself with the wisdom of ancient strategies, fine-tuned for today's financial landscape. Understand how to navigate the intricate world of accounting and finance with grace, prowess, and a firm grip on your resources.
 
@@ -102,7 +102,7 @@ Are you searching for a book that combines the timeless wisdom of 'The Art of Wa
 - Harness the secrets of building financial power
 - Command your finances like a seasoned general on a battlefield
 
-🔗 Discover your own path to financial victory, equip yourself with the knowledge and power you need to conquer the modern financial battlefield.
+🔗 Discover your own path to financial victory, and equip yourself with the knowledge and power you need to conquer the modern financial battlefield.
 
 Don't just take our word for it, click the link below and dive into the world of "Strategies of Financial Victory: The Art of Power in Accounting".
 
