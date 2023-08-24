@@ -12,7 +12,8 @@ Prepare to be blown away by the ingenuity of CSS animations and 3D modeling. It'
 Source code: [Star Wars Rebel X-Wing Fighter](https://tinyurl.com/rebelfighter)
 
 -------
-
+My first mobile app advertisement (Figma User Interface): https://tinyurl.com/3b7fz9we
+-------
 <h1> Who am I? </h1>
   <p> 🍯 I'm a Lead Software Developer with a passion for coding and solving complex challenges. I have experience in the software development industry, and I'm proficient in a wide range of technologies, including UX/UI design, XCode, TESTFLIGHT, web development, web funnels, C#, Java, JavaScript, HTML, CSS, SQL, Python, PHP, ASP.NET, Node.js, React, Redux, Angular, Bootstrap, MongoDB, AWS, Azure, Git, Linux, Agile, Scrum, REST API, Machine Learning, Data Structures & Algorithms, Web Services, Cloud Computing, Design Patterns, Testing & Debugging, Networking, Security, DevOps, and Ruby on Rails.
     
@@ -48,9 +49,6 @@ It is still a work in progress and will be reopened soon to merge with this code
 
 The website I developed for my family's medical practice (Jan 2023): 
 https://gpapopulationhealth.com/
-  
-My first mobile app advertisement (Figma User Interface): 
-https://tinyurl.com/3b7fz9we
 
 Additionally, I'm also pouring my creativity into a few personal projects to be released a bit later. I'm always open to intriguing ideas and love to challenge myself with new projects. So, if you have any in mind, feel free to drop a message!
 
