@@ -46,6 +46,12 @@ Responsive design for smooth access from various devices
 
 It is still a work in progress and will be reopened soon to merge with this codebase: https://lnkd.in/gzQ6MnwX
 
+The website I developed for my family's medical practice (Jan 2023): 
+https://gpapopulationhealth.com/
+  
+My first mobile app advertisement (Figma User Interface): 
+https://tinyurl.com/3b7fz9we
+
 Additionally, I'm also pouring my creativity into a few personal projects to be released a bit later. I'm always open to intriguing ideas and love to challenge myself with new projects. So, if you have any in mind, feel free to drop a message!
 
 Thank you for taking out time to read this! Stay tuned for more updates.
@@ -79,13 +85,6 @@ Thank you for your time and consideration.
 <a href="https://www.youtube.com/channel/UC6e9HvwaEPQhtdY3l6uizbg"><img src="https://dougs-crossing-game.netlify.app/youtube.svg" alt="YouTube" width="25" height="25" /></a>
 
 <a href="mailto:jobs4me321@gmail.com?subject=[GitHub]"><img src="https://dougs-crossing-game.netlify.app/gmail.svg" alt="YouTube" width="25" height="25" /></a>
-  
-  
-The website I developed for my family's medical practice (Jan 2023): 
-https://gpapopulationhealth.com/
-  
-My first mobile app advertisement (Figma User Interface): 
-https://tinyurl.com/3b7fz9we
   
 **ALL RIGHTS RESERVED**
 - As of January 12, 2023, and henceforth throughout perpetuity all intellectual properties not forked from Pursuit belong to Frame Tech Solutions Ltd., Co. 框架技術解決方案 unless stated otherwise in writing by Frame Tech Solutions Ltd., Co. 框架技術解決方案 or unless stated otherwise in the repository of the actual intellectual property. Such arbitrary information regarding the aforementioned may be in the `README.md` or `License` section of each repository.
