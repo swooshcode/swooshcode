@@ -22,18 +22,18 @@ Here you will find direct links to my GitHub repositories and a collection of my
     
 At the moment, I am engrossed in a number of open-source projects, which include:
 
-1. Python Animation: American Flag 🦅🇺🇲 -> This code draws the American flag. Using Matplotlib, I designed a canvas and added red and white stripes to represent the flag. I also included a blue rectangle for the stars representing the states. The stars were placed in rows, and the code set various properties to ensure the flag looked just right. It's a wonderful way to create the American flag using computer programming!
+1. Python Animation: American Flag 🦅🇺🇲 (Complete)-> This code draws the American flag. Using Matplotlib, I designed a canvas and added red and white stripes to represent the flag. I also included a blue rectangle for the stars representing the states. The stars were placed in rows, and the code set various properties to ensure the flag looked just right. It's a wonderful way to create the American flag using computer programming!
    Check it out: https://lnkd.in/ggTYdu4A
 
-2. Javascript Weather App. Just type in a city and it will give you the weather and recommendations based on the temperature: https://replit.com/@myapfly/Weather-App-JS?s=app
+2. Javascript Weather App(Complete). Just type in a city and it will give you the weather and recommendations based on the temperature: https://replit.com/@myapfly/Weather-App-JS?s=app
    
-3. Javascript Calendar. Adjust values to display other months: https://replit.com/@myapfly/Javascript-Calendar?s=app
+3. Javascript Calendar(Complete). Adjust values to display other months: https://replit.com/@myapfly/Javascript-Calendar?s=app
    
 4. Zapier Langchain-nla-util (In progress): This is an extensive project aiming to simplify complex natural language understanding operations. It's currently under development and you can follow its progress here: https://lnkd.in/gyd_UJTz .
 
-5. ChitChatApp (Completed; currently developing a new version): This project resulted in an intuitive chat application that streamlines communication. We are now working on a newer version for an enhanced user experience. Find it here: https://lnkd.in/g2uFqXM7 .
+5. ChitChatApp (Completed; currently developing a new version): This project resulted in an intuitive chat application that streamlines communication. We are now working on a newer version for an enhanced user experience. Find it here: https://lnkd.in/g2uFqXM7 (Unstable Version).
 
-6. Wellfound(formerly known as AngelList) Database Management App (Incomplete; currently hosting on an AWS Ubuntu Server)[No longer apart of this project]
+6. Wellfound(formerly known as AngelList) Database Management App (Unstable - Incomplete; currently hosting on an AWS Ubuntu Server)[No longer apart of this project]
 A powerful web app for managing complex databases. User-friendly interface, robust security, and responsive design. It empowers businesses, researchers, and organizations to organize and retrieve critical data. Features include:
 Forms and intuitive views
 Full security with user authentication and authorization mechanisms
