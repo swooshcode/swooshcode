@@ -21,21 +21,28 @@ In my previous role as Lead Software Developer at ChitChat, I was responsible fo
 Here you will find direct links to my GitHub repositories and a collection of my written pieces including articles and blog posts about software development.
     
 At the moment, I am engrossed in a number of open-source projects, which include:
-    
-1. Zapier Langchain-nla-util (In progress): This is an extensive project aiming to simplify complex natural language understanding operations. It's currently under development and you can follow its progress here: https://lnkd.in/gyd_UJTz .
 
-2. ChitChatApp (Completed; currently developing a new version): This project resulted in an intuitive chat application that streamlines communication. We are now working on a newer version for an enhanced user experience. Find it here: https://lnkd.in/g2uFqXM7 .
+1. Python Animation: American Flag 🦅🇺🇲 -> This code draws the American flag. Using Matplotlib, I designed a canvas and added red and white stripes to represent the flag. I also included a blue rectangle for the stars representing the states. The stars were placed in rows, and the code set various properties to ensure the flag looked just right. It's a wonderful way to create the American flag using computer programming!
+   Check it out: https://lnkd.in/ggTYdu4A
 
-3. Wellfound(formerly known as AngelList) Database Management App (Completed; currently hosting on an AWS Ubuntu Server)
+2. Javascript Weather App. Just type in a city and it will give you the weather and recommendations based on the temperature: https://replit.com/@myapfly/Weather-App-JS?s=app
+   
+3. Javascript Calendar. Adjust values to display other months: https://replit.com/@myapfly/Javascript-Calendar?s=app
+   
+4. Zapier Langchain-nla-util (In progress): This is an extensive project aiming to simplify complex natural language understanding operations. It's currently under development and you can follow its progress here: https://lnkd.in/gyd_UJTz .
+
+5. ChitChatApp (Completed; currently developing a new version): This project resulted in an intuitive chat application that streamlines communication. We are now working on a newer version for an enhanced user experience. Find it here: https://lnkd.in/g2uFqXM7 .
+
+6. Wellfound(formerly known as AngelList) Database Management App (Incomplete; currently hosting on an AWS Ubuntu Server)[No longer apart of this project]
 A powerful web app for managing complex databases. User-friendly interface, robust security, and responsive design. It empowers businesses, researchers, and organizations to organize and retrieve critical data. Features include:
 Forms and intuitive views
 Full security with user authentication and authorization mechanisms
 Efficient handling of large datasets with features like data filtering, sorting, and exporting
 Responsive design for smooth access from various devices
 
-4. DocuAssist (Completed): An automated document assistance tool, it aids in creating, editing, and sharing documents effectively. You can find the project here: https://lnkd.in/gMZzbqvB .
+7. DocuAssist (Completed): An automated document assistance tool, it aids in creating, editing, and sharing documents effectively. You can find the project here: https://lnkd.in/gMZzbqvB .
 
-5. Auto-GPT-Plugins (In progress): This is an effort towards creating plugins to automate a variety of tasks, enhancing productivity. This plugin I have been honored to work on will automate speech with Google's Text-To-Speech API. The closed pull request can be found here: https://lnkd.in/gpzSThzY
+8. Auto-GPT-Plugins (In progress): This is an effort towards creating plugins to automate a variety of tasks, enhancing productivity. This plugin I have been honored to work on will automate speech with Google's Text-To-Speech API. The closed pull request can be found here: https://lnkd.in/gpzSThzY
 
 It is still a work in progress and will be reopened soon to merge with this codebase: https://lnkd.in/gzQ6MnwX
 
