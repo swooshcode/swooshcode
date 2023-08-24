@@ -1,4 +1,4 @@
-### 
+[TechResume (1).pdf](https://github.com/swooshcode/swooshcode/files/12433026/TechResume.1.pdf)### 
 <h1 align="left"> 黃龍 Nigel Phillips: Founder of Frame Tech Solutions Ltd., Co. 框架技術解決方案 💻 ❤️‍🔥 </h1>
 
 ![365984703_7275082955842404_1054461165221958257_n](https://github.com/swooshcode/swooshcode/assets/115655242/3a0e8cc2-0ee8-43ea-9f72-3cc1ca06ab4c)
@@ -84,7 +84,8 @@ https://tinyurl.com/3b7fz9we
 
 Here's my CV/Resume:
 
-[TechResume.pdf](https://github.com/swooshcode/swooshcode/files/12412354/TechResume.pdf)
+[Tech Resume|CV](https://github.com/swooshcode/swooshcode/files/12433028/TechResume.1.pdf)
+
 
 Personal Websites: https://www.tinyurl.com/nigelphillips
 
