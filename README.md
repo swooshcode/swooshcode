@@ -85,7 +85,7 @@ https://tinyurl.com/3b7fz9we
 
 Here's my CV/Resume:
 
-[Nigel Phillips (3).pdf](https://github.com/swooshcode/swooshcode/files/12433684/Nigel.Phillips.3.pdf)
+[CV|Resume](https://github.com/swooshcode/swooshcode/files/12433684/Nigel.Phillips.3.pdf)
 
 
 Personal Websites: https://www.tinyurl.com/nigelphillips
