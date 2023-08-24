@@ -2,22 +2,38 @@
 
 ![365984703_7275082955842404_1054461165221958257_n](https://github.com/swooshcode/swooshcode/assets/115655242/3a0e8cc2-0ee8-43ea-9f72-3cc1ca06ab4c)
 
-You're welcome to learn more about our company here: https://www.frametechtw.com
-
-https://github.com/swooshcode/swooshcode/assets/115655242/4c94881a-75a1-4664-8c98-28c78ae215a0
+-------
 
 🌟 Check out this mind-blowing CSS animation I created! 🚀✨ Immerse yourself in the Star Wars universe with a stunning 3D model of an X-Wing Fighter spaceship taking flight! The animation employs the magic of "translate3D" and "rotate" properties, effortlessly maneuvering the spaceship in the vastness of 3D space.
 This captivating animation allows you to experience the mesmerizing illusion of the X-Wing Fighter soaring through the depths of deep space. The backdrop itself emanates cosmic allure, composed of twinkling stars in perpetual motion, complementing the spaceship's interstellar journey.
 Prepare to be blown away by the ingenuity of CSS animations and 3D modeling. It's a perfect showcase of what can be achieved with these technologies! Your eyes won't believe the cosmic wonders you're about to witness! 🌌✨🚀
+
+![Star Wars Rebel X-Wing Fighter](https://github.com/swooshcode/swooshcode/assets/115655242/4c94881a-75a1-4664-8c98-28c78ae215a0)
+
 Source code: [Star Wars Rebel X-Wing Fighter](https://tinyurl.com/rebelfighter)
+
+------
+
+You're welcome to learn more about our company here: https://www.frametechtw.com
+
+--------
+
+https://github.com/swooshcode/swooshcode/assets/115655242/d8255285-cd53-49bf-bcdf-b15b9f408870
 
 -------
 My first mobile app advertisement (Figma User Interface): https://tinyurl.com/3b7fz9we
 -------
 <h1> Who am I? </h1>
-  <p> 🍯 I'm a Lead Software Developer with a passion for coding and solving complex challenges. I have experience in the software development industry, and I'm proficient in a wide range of technologies, including UX/UI design, XCode, TESTFLIGHT, web development, web funnels, C#, Java, JavaScript, HTML, CSS, SQL, Python, PHP, ASP.NET, Node.js, React, Redux, Angular, Bootstrap, MongoDB, AWS, Azure, Git, Linux, Agile, Scrum, REST API, Machine Learning, Data Structures & Algorithms, Web Services, Cloud Computing, Design Patterns, Testing & Debugging, Networking, Security, DevOps, and Ruby on Rails.
+  <p>
+
+https://github.com/swooshcode/swooshcode/assets/115655242/26f7e668-6914-403a-af4d-117ff0256643
+
+ 🍯 I'm a Lead Software Developer with a passion for coding and solving complex challenges. I have experience in the software development industry, and I'm proficient in a wide range of technologies, including UX/UI design, XCode, TESTFLIGHT, web development, web funnels, C#, Java, JavaScript, HTML, CSS, SQL, Python, PHP, ASP.NET, Node.js, React, Redux, Angular, Bootstrap, MongoDB, AWS, Azure, Git, Linux, Agile, Scrum, REST API, Machine Learning, Data Structures & Algorithms, Web Services, Cloud Computing, Design Patterns, Testing & Debugging, Networking, Security, DevOps, and Ruby on Rails.
     
 In my previous role as Lead Software Developer at ChitChat, I was responsible for leading a team of developers in the development of a new software product. I was also responsible for the overall design and architecture of the product. I have a proven track record of success in delivering high-quality software products on time and within budget.
+
+I have experience in the education, non-profit, and healthcare industries. My React, Node,
+and Quality Assurance skills honed through Pursuit's Fellowship Core Program enable me to deliver top-notch solutions that meet clients' needs. I have established a technology startup, taught English and STEM, and excelled as a lead software developer. With my passion for software engineering, I am confident in delivering exceptional results that exceed expectations.
     
 Here you will find direct links to my GitHub repositories and a collection of my written pieces including articles and blog posts about software development.
     
@@ -34,6 +50,12 @@ At the moment, I am engrossed in a number of open-source projects, which include
 
 5. ChitChatApp (Completed; currently developing a new version): This project resulted in an intuitive chat application that streamlines communication. We are now working on a newer version for an enhanced user experience. Find it here: https://lnkd.in/g2uFqXM7 (Unstable Version).
 
+------
+
+https://github.com/swooshcode/swooshcode/assets/115655242/1fa842fd-8e0b-4b94-b042-27955df583ad
+
+------
+
 6. Wellfound(formerly known as AngelList) Database Management App (Unstable - Incomplete; currently hosting on an AWS Ubuntu Server)[No longer apart of this project]
 A powerful web app for managing complex databases. User-friendly interface, robust security, and responsive design. It empowers businesses, researchers, and organizations to organize and retrieve critical data. Features include:
 Forms and intuitive views
@@ -42,6 +64,12 @@ Efficient handling of large datasets with features like data filtering, sorting,
 Responsive design for smooth access from various devices
 
 7. DocuAssist (Completed): An automated document assistance tool, it aids in creating, editing, and sharing documents effectively. You can find the project here: https://lnkd.in/gMZzbqvB .
+
+------
+
+https://github.com/swooshcode/swooshcode/assets/115655242/fa9399b4-57d7-4e7c-b282-2483bd387c46
+
+------
 
 8. Auto-GPT-Plugins (In progress): This is an effort towards creating plugins to automate a variety of tasks, enhancing productivity. This plugin I have been honored to work on will automate speech with Google's Text-To-Speech API. The closed pull request can be found here: https://lnkd.in/gpzSThzY
 
@@ -53,6 +81,16 @@ https://gpapopulationhealth.com/
 Additionally, I'm also pouring my creativity into a few personal projects to be released a bit later. I'm always open to intriguing ideas and love to challenge myself with new projects. So, if you have any in mind, feel free to drop a message!
 
 Thank you for taking out time to read this! Stay tuned for more updates.
+
+------
+
+https://github.com/swooshcode/swooshcode/assets/115655242/44e8ff94-1c61-439e-a5f4-66c81deaf6bc
+
+
+
+https://github.com/swooshcode/swooshcode/assets/115655242/0e0d1713-4a1b-47b8-92e7-7dc9b76a4a93
+
+------
 
 I'm excited to network with other developers and learn more about the latest technologies. I'm also eager to take on new challenges and contribute to the development of innovative software products.
 
