@@ -54,7 +54,9 @@ At the moment, I am engrossed in a number of open-source projects, which include
 
 5. ChitChatApp (Complete; agile method - currently developing a new version): This project resulted in an intuitive chat application that streamlines communication. We are now working on a newer version for an enhanced user experience.
 
-[ChitChat App IOS XCode Simulator Preview](https://github.com/swooshcode/swooshcode/assets/115655242/8bffdca5-deb2-4509-ae17-8ce611e2d4cf)
+[ChitChat App IOS XCode Simulator Preview](https://github.com/swooshcode/swooshcode/assets/115655242/0bbc4df2-7f19-4c77-9f49-a65e01696369)
+
+
 
 Source code: [ChitChat App](https://lnkd.in/g2uFqXM7) (Unstable Version)
 
