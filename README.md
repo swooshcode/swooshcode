@@ -24,7 +24,11 @@ You're welcome to learn more about our company here: https://www.frametechtw.com
 https://github.com/swooshcode/swooshcode/assets/115655242/d8255285-cd53-49bf-bcdf-b15b9f408870
 
 -------
-My first mobile app advertisement (Figma User Interface): https://tinyurl.com/3b7fz9we
+<h3>My first mobile app advertisement</h3>
+
+https://github.com/swooshcode/swooshcode/assets/115655242/c0b5925a-22fd-462d-8749-3619b2a534e7
+
+(Figma User Interface): https://tinyurl.com/3b7fz9we
 -------
 <h1> Who am I? </h1>
   <p>
@@ -54,9 +58,9 @@ At the moment, I am engrossed in a number of open-source projects, which include
 
 5. ChitChatApp (Complete; agile method - currently developing a new version): This project resulted in an intuitive chat application that streamlines communication. We are now working on a newer version for an enhanced user experience.
 
-[ChitChat App IOS XCode Simulator Preview](https://github.com/swooshcode/swooshcode/assets/115655242/0bbc4df2-7f19-4c77-9f49-a65e01696369)
+<h3>ChitChat App IOS XCode Simulator Preview</h3>
 
-
+https://github.com/swooshcode/swooshcode/assets/115655242/0bbc4df2-7f19-4c77-9f49-a65e01696369
 
 Source code: [ChitChat App](https://lnkd.in/g2uFqXM7) (Unstable Version)
 
