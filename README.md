@@ -52,7 +52,11 @@ At the moment, I am engrossed in a number of open-source projects, which include
    
 4. Zapier Langchain-nla-util (In progress): This is an extensive project aiming to simplify complex natural language understanding operations. It's currently under development and you can follow its progress here: https://lnkd.in/gyd_UJTz .
 
-5. ChitChatApp (Complete; agile method - currently developing a new version): This project resulted in an intuitive chat application that streamlines communication. We are now working on a newer version for an enhanced user experience. Find it here: https://lnkd.in/g2uFqXM7 (Unstable Version).
+5. ChitChatApp (Complete; agile method - currently developing a new version): This project resulted in an intuitive chat application that streamlines communication. We are now working on a newer version for an enhanced user experience.
+
+[ChitChat App IOS XCode Simulator Preview](https://github.com/swooshcode/swooshcode/assets/115655242/8bffdca5-deb2-4509-ae17-8ce611e2d4cf)
+
+Source code: [ChitChat App](https://lnkd.in/g2uFqXM7) (Unstable Version)
 
 ------
 
