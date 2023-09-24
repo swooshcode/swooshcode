@@ -11,6 +11,9 @@ https://github.com/swooshcode/swooshcode/assets/115655242/d990fbee-0574-47b1-8c7
 Source code: [3D Star Wars Outer Rim Map](https://codepen.io/swooshcode/full/wvRqLOp)
 
 -------
+
+https://github.com/swooshcode/swooshcode/assets/115655242/4b7bb2fa-1e31-42dc-82f6-862016441bd7
+
 -------
 🌟 Check out this mind-blowing CSS animation I created! 🚀✨ Immerse yourself in the Star Wars universe with a stunning 3D model of an X-Wing Fighter spaceship taking flight! The animation employs the magic of "translate3D" and "rotate" properties, effortlessly maneuvering the spaceship in the vastness of 3D space.
 This captivating animation allows you to experience the mesmerizing illusion of the X-Wing Fighter soaring through the depths of deep space. The backdrop itself emanates cosmic allure, composed of twinkling stars in perpetual motion, complementing the spaceship's interstellar journey.
