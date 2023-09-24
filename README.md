@@ -6,6 +6,8 @@
 -------
 -------
 
+Check out my 3D animation of planets in a region of the Star Wars Universe known as "The Outer Rim," a place made famous by actors such as Billy Dee Williams and Harrison Ford:
+
 https://github.com/swooshcode/swooshcode/assets/115655242/d990fbee-0574-47b1-8c76-a86cf0fdf3b2
 
 Source code: [3D Star Wars Outer Rim Map](https://codepen.io/swooshcode/full/wvRqLOp)
