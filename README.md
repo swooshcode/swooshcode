@@ -14,6 +14,10 @@ Source code: [3D Star Wars Outer Rim Map](https://codepen.io/swooshcode/full/wvR
 -------
 Hello everyone! I'm excited to share that my latest project is finally complete. I've created a 3D animation model of Poe Dameron's T-70 X-Wing starfighter from the Star Wars franchise. As an animation enthusiast and software developer, it was a great experience for me to merge my passions with my love for Star Wars.
 
+🌟 Check out this mind-blowing CSS animation I created! 🚀✨ Immerse yourself in the Star Wars universe with a stunning 3D model of an X-Wing Fighter spaceship taking flight! The animation employs the magic of "translate3D" and "rotate" properties, effortlessly maneuvering the spaceship in the vastness of 3D space.
+This captivating animation allows you to experience the mesmerizing illusion of the X-Wing Fighter soaring through the depths of deep space. The backdrop itself emanates cosmic allure, composed of twinkling stars in perpetual motion, complementing the spaceship's interstellar journey.
+Prepare to be blown away by the ingenuity of CSS animations and 3D modeling. It's a perfect showcase of what can be achieved with these technologies! Your eyes won't believe the cosmic wonders you're about to witness! 🌌✨🚀
+
 In these challenging times, this project reminds us of what brings us together. Whether you are a long-time fan of the original trilogy or have just discovered the franchise, the stories of Star Wars resonate with us on a deep level.
 
 My hope is that this project brings joy and inspiration into your lives and reminds you that there are still things that can connect us and bring hope. 3D animations are not just pixels on a screen; they represent our collective imagination, our thirst for adventure, and our yearning to explore a universe beyond our own.
@@ -22,15 +26,6 @@ Without further ado, please check out my 3D animation of Poe Dameron's T-70 X-Wi
 https://github.com/swooshcode/swooshcode/assets/115655242/4b7bb2fa-1e31-42dc-82f6-862016441bd7
 
 Source code: [Star Wars Rebel T-70 X-Wing Fighter, Poe Dameron's The Black One](https://tinyurl.com/rebelfighter)
-
--------
-🌟 Check out this mind-blowing CSS animation I created! 🚀✨ Immerse yourself in the Star Wars universe with a stunning 3D model of an X-Wing Fighter spaceship taking flight! The animation employs the magic of "translate3D" and "rotate" properties, effortlessly maneuvering the spaceship in the vastness of 3D space.
-This captivating animation allows you to experience the mesmerizing illusion of the X-Wing Fighter soaring through the depths of deep space. The backdrop itself emanates cosmic allure, composed of twinkling stars in perpetual motion, complementing the spaceship's interstellar journey.
-Prepare to be blown away by the ingenuity of CSS animations and 3D modeling. It's a perfect showcase of what can be achieved with these technologies! Your eyes won't believe the cosmic wonders you're about to witness! 🌌✨🚀
-
-https://github.com/swooshcode/swooshcode/assets/115655242/4c94881a-75a1-4664-8c98-28c78ae215a0
-
-Source code: [Star Wars Rebel X-Wing Fighter](https://tinyurl.com/rebelfighter)
 
 ------
 
