@@ -5,11 +5,11 @@
 
 -------
 
-Check out my 3D animation of planets in a region of the Star Wars Universe known as "The Outer Rim," a place made famous by actors such as Billy Dee Williams and Harrison Ford:
+Check out my animated 3D Orrery of planets in a region of the Star Wars Universe known as "The Outer Rim," a place made famous by actors such as Billy Dee Williams and Harrison Ford:
 
 https://github.com/swooshcode/swooshcode/assets/115655242/d990fbee-0574-47b1-8c76-a86cf0fdf3b2
 
-Source code: [3D Star Wars Outer Rim Map](https://codepen.io/swooshcode/full/wvRqLOp)
+Source code: [3D Star Wars Outer Rim Orrery](https://codepen.io/swooshcode/full/wvRqLOp)
 
 -------
 Hello everyone! I'm excited to share that my latest project is finally complete. I've created a 3D animation model of Poe Dameron's T-70 X-Wing starfighter from the Star Wars franchise. As an animation enthusiast and software developer, it was a great experience for me to merge my passions with my love for Star Wars.
