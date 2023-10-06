@@ -5,6 +5,28 @@
 
 -------
 
+Quantum Challenge Completed! 💥
+
+I am excited to share with you that I have successfully completed a fascinating challenge in quantum computing! My objective was to design my first quantum circuit utilizing Grover's algorithm while meeting specific qubit constraints. 👨🏿‍🔬
+
+The circuit involved:
+- 10 control qubits
+- 1 target qubit
+- At least 2 auxiliary qubits
+
+I used the Classiq Technologies platform and Python to define the circuit constraints and optimize them for depth. Additionally, I created an MCX gate to meet the exact qubit requirements. 🎯
+
+Witnessing the circuit diagram come together based on the parameters I set was an incredible experience. Although the challenge was relatively simple, it provided me with a glimpse of what genuine quantum circuit design entails. I am eagerly looking forward to exploring more possibilities with quantum computing! 🚀
+If you are interested in discussing all things quantum, sincerely let me know! Furthermore, do you have any suggestions for other fun quantum challenges for beginners? I would sincerely appreciate hearing them.
+
+#QuantumComputing #QuantumCircuit #GroverAlgorithm #Classiq
+
+P.S. ---> While basic, it was super exciting to synthesize and execute my first quantum circuit. 👨🏿‍🔬
+
+![Grover Circuit](https://github.com/swooshcode/swooshcode/assets/115655242/2f73d000-30c0-4a8c-b107-fb8bb0a64333)
+
+-------
+
 Check out my animated 3D Orrery of planets in a region of the Star Wars Universe known as "The Outer Rim," a place made famous by actors such as Billy Dee Williams and Harrison Ford:
 
 https://github.com/swooshcode/swooshcode/assets/115655242/d990fbee-0574-47b1-8c76-a86cf0fdf3b2
