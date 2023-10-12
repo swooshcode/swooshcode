@@ -215,7 +215,7 @@ The path to your financial victory starts today. Don't wait - take command now!
 
 Here's my CV/Resume:
 
-[CV|Resume](https://github.com/swooshcode/swooshcode/files/12444159/Nigel.Phillips.3.pdf)
+[CV|Resume](https://github.com/swooshcode/swooshcode/files/12886791/Tech.CV.Oct.2023.pdf)
 
 Personal Websites: https://www.tinyurl.com/nigelphillips
 
