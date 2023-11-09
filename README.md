@@ -5,6 +5,26 @@
 
 -------
 
+📣 Exciting News! 🚀📱
+
+I am thrilled to share with all of you that I have just published my very first app on the Google Play Store! 🎉🥳
+
+It has been an incredible journey of creativity, learning, and hard work, and I couldn't be more proud of this achievement. 🙌
+
+My app, Piece Together, is now available for download for Android devices. 📲💻
+
+![Piece Together on the play store](https://lnkd.in/gp8_FsHU)
+
+I invite you all to check it out and support my passion project once it's finally published. Your feedback and reviews are greatly appreciated! 🌟🙏
+
+Thank you to everyone who has supported me throughout this process. It truly means the world to me. ❤️
+
+Let's make this app a success together! 🚀💪
+
+#NewApp #GooglePlayStore #ExcitingNews
+
+-------
+
 Quantum Challenge Completed! 💥
 
 I am excited to share with you that I have successfully completed a fascinating challenge in quantum computing! My objective was to design my first quantum circuit utilizing Grover's algorithm while meeting specific qubit constraints. 👨🏿‍🔬
