@@ -5,6 +5,28 @@
 
 -------
 
+🎉 Just wrote my first solidity smart contract! Check out the code below:
+
+//SPDX-License-Idendifier: GPL-3.0
+
+pragma solidity ^0.8.10;
+
+contract Addition {
+
+    function add(uint a, uint b) public pure returns (uint) {
+        uint sum = a + b;
+        return sum;
+    }
+}
+
+I successfully deployed this code on the Ethereum blockchain and tested it by adding values, which resulted in the expected sum of 4. Excited to continue exploring the world of smart contracts! 🚀
+
+#SmartContracts #Ethereum #Blockchain #Solidity #CodingJourney
+
+https://github.com/swooshcode/swooshcode/assets/115655242/6aa69b25-260a-4005-8040-a22977d81727
+
+-------
+
 📣 Exciting News! 🚀📱
 
 I am thrilled to share with all of you that I have just published my very first app on the Google Play Store! 🎉🥳
