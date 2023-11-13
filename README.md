@@ -22,6 +22,10 @@ Isn't quantum computing fascinating? Let's keep exploring the wonders of technol
 
 https://github.com/swooshcode/swooshcode/assets/115655242/d1cd5ca4-aa08-4b27-a828-52103c46b1ca
 
+---------
+
+https://github.com/swooshcode/swooshcode/assets/115655242/71b69a38-4eae-4d67-8126-38c48c71b266
+
 --------
 
 Instructor Nigel is a man of many talents! Watch his latest video to learn about his role in a startup, quantum engineering, and a beginner's guide to Python. His journey will inspire you to kickstart your tech career! #StartUpLife #PythonBasics
