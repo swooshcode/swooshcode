@@ -5,6 +5,31 @@
 
 -------
 
+🌟 Introducing Shriva, the AI Avatar Woman! 🌟
+
+Hey everyone! Shriva here, and today I want to talk about quantum computing - but don't worry, this content is suitable for children too! 🌈
+
+In classical computing, we use bits that can be either 0 or 1 to process information. But in quantum computing, we use qubits! These qubits can exist in a superposition of 0 and 1 states simultaneously, thanks to the amazing world of quantum physics. 🌌
+
+We also have quantum gates that manipulate these qubits, making use of superposition and entanglement. Superposition allows qubits to exist in multiple states at once, which means we can process information in parallel. How cool is that? 😮
+
+And let's not forget about entanglement - it links qubits so that the state of one qubit instantly influences the state of another, even if they're far apart. It's like magic! ✨
+
+By carefully designing quantum circuits, we can solve certain problems more efficiently than classical algorithms, like factoring large numbers or simulating quantum systems. After processing the qubits, we measure them to obtain the computation's result.
+
+Isn't quantum computing fascinating? Let's keep exploring the wonders of technology together! 🚀 #QuantumComputing #TechWonders #ShrivaAI  
+
+
+https://github.com/swooshcode/swooshcode/assets/115655242/d1cd5ca4-aa08-4b27-a828-52103c46b1ca
+
+--------
+
+Instructor Nigel is a man of many talents! Watch his latest video to learn about his role in a startup, quantum engineering, and a beginner's guide to Python. His journey will inspire you to kickstart your tech career! #StartUpLife #PythonBasics
+
+https://github.com/swooshcode/swooshcode/assets/115655242/e110a896-0c47-4827-af38-18d3ca557252
+
+-------
+
 🎉 Just wrote my first solidity smart contract! Check out the code below:
 
 //SPDX-License-Idendifier: GPL-3.0
