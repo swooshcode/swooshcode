@@ -72,7 +72,7 @@ It has been an incredible journey of creativity, learning, and hard work, and I 
 
 My app, Piece Together, is now available for download for Android devices. 📲💻
 
-![Piece Together on the play store](https://lnkd.in/gp8_FsHU)
+<a href="https://play.google.com/store/apps/details?id=com.piece9389tog">Piece Together on Google Play Store</a>
 
 I invite you all to check it out and support my passion project once it's finally published. Your feedback and reviews are greatly appreciated! 🌟🙏
 
