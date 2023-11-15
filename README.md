@@ -5,9 +5,13 @@
 
 -------
 
+I tweeted on "X" with #Python ! #fullstack #web3 #softwaredeveloper #tweety #softwareengineer #problemsolver #oauth2 #OAuth
+
 https://github.com/swooshcode/swooshcode/assets/115655242/8444e033-f8e5-4bf8-8f8c-8616ed7d27a3
 
 -------
+
+Finally, #Quantum #Entanglement ! 🎊
 
 https://github.com/swooshcode/swooshcode/assets/115655242/8578560c-3436-4f3e-8e8c-1cca47af4238
 
