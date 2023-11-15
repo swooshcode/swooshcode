@@ -5,6 +5,26 @@
 
 -------
 
+📣 Exciting News! 🚀📱
+
+I am thrilled to share with all of you that I have just published my very first app on the Google Play Store! 🎉🥳
+
+It has been an incredible journey of creativity, learning, and hard work, and I couldn't be more proud of this achievement. 🙌
+
+My app, Piece Together, is now available for download for Android devices. 📲💻
+
+<a href="https://play.google.com/store/apps/details?id=com.piece9389tog">Piece Together on Google Play Store</a>
+
+I invite you all to check it out and support my passion project once it's finally published. Your feedback and reviews are greatly appreciated! 🌟🙏
+
+Thank you to everyone who has supported me throughout this process. It truly means the world to me. ❤️
+
+Let's make this app a success together! 🚀💪
+
+#NewApp #GooglePlayStore #ExcitingNews
+
+-------
+
 I tweeted on "X" with #Python ! #fullstack #web3 #softwaredeveloper #tweety #softwareengineer #problemsolver #oauth2 #OAuth
 
 https://github.com/swooshcode/swooshcode/assets/115655242/8444e033-f8e5-4bf8-8f8c-8616ed7d27a3
@@ -61,26 +81,6 @@ I successfully deployed this code on the Ethereum blockchain and tested it by ad
 #SmartContracts #Ethereum #Blockchain #Solidity #CodingJourney
 
 https://github.com/swooshcode/swooshcode/assets/115655242/6aa69b25-260a-4005-8040-a22977d81727
-
--------
-
-📣 Exciting News! 🚀📱
-
-I am thrilled to share with all of you that I have just published my very first app on the Google Play Store! 🎉🥳
-
-It has been an incredible journey of creativity, learning, and hard work, and I couldn't be more proud of this achievement. 🙌
-
-My app, Piece Together, is now available for download for Android devices. 📲💻
-
-<a href="https://play.google.com/store/apps/details?id=com.piece9389tog">Piece Together on Google Play Store</a>
-
-I invite you all to check it out and support my passion project once it's finally published. Your feedback and reviews are greatly appreciated! 🌟🙏
-
-Thank you to everyone who has supported me throughout this process. It truly means the world to me. ❤️
-
-Let's make this app a success together! 🚀💪
-
-#NewApp #GooglePlayStore #ExcitingNews
 
 -------
 
