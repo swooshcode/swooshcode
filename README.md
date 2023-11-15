@@ -5,6 +5,14 @@
 
 -------
 
+https://github.com/swooshcode/swooshcode/assets/115655242/8444e033-f8e5-4bf8-8f8c-8616ed7d27a3
+
+-------
+
+https://github.com/swooshcode/swooshcode/assets/115655242/8578560c-3436-4f3e-8e8c-1cca47af4238
+
+-------
+
 🌟 Introducing Shriva, the AI Avatar Woman! 🌟
 
 Hey everyone! Shriva here, and today I want to talk about quantum computing - but don't worry, this content is suitable for children too! 🌈
