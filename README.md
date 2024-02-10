@@ -1,7 +1,5 @@
-<h1 align="left"> 黃龍 Nigel Phillips: Founder of Frame Tech Solutions Ltd., Co. 框架技術解決方案 💻 ❤️‍🔥 </h1>
+<h1 align="left"> 黃龍 Nigel Phillips: MultiCloud | DevOps | Google Cloud Shell | AWS | Quantum Computing (Cirq) | Cloud SQL DBA | API | Terraform | Kubernetes (GKE) | Docker | Cluster | Full-Stack | Gen A.I. |  💻 ❤️‍🔥 </h1>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=swooshcode&label=Profile%20views&color=0e75b6&style=flat" alt="swooshcode" /> </p>
-
-![365984703_7275082955842404_1054461165221958257_n](https://github.com/swooshcode/swooshcode/assets/115655242/3a0e8cc2-0ee8-43ea-9f72-3cc1ca06ab4c)
 
 -------
 
